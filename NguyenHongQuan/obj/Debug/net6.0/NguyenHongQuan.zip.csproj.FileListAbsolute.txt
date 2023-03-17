@@ -1,0 +1,15 @@
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\NguyenHongQuan.zip.csproj.AssemblyReference.cache
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\NguyenHongQuan.zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\NguyenHongQuan.zip.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\NguyenHongQuan.zip.AssemblyInfo.cs
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\NguyenHongQuan.zip.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenHongQuan.zip\bin\Debug\net6.0\NguyenHongQuan.zip.exe
+C:\Insight Files\NguyenHongQuan.zip\bin\Debug\net6.0\NguyenHongQuan.zip.deps.json
+C:\Insight Files\NguyenHongQuan.zip\bin\Debug\net6.0\NguyenHongQuan.zip.runtimeconfig.json
+C:\Insight Files\NguyenHongQuan.zip\bin\Debug\net6.0\NguyenHongQuan.zip.dll
+C:\Insight Files\NguyenHongQuan.zip\bin\Debug\net6.0\NguyenHongQuan.zip.pdb
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\NguyenHongQuan.zip.dll
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\refint\NguyenHongQuan.zip.dll
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\NguyenHongQuan.zip.pdb
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\NguyenHongQuan.zip.genruntimeconfig.cache
+C:\Insight Files\NguyenHongQuan.zip\obj\Debug\net6.0\ref\NguyenHongQuan.zip.dll
